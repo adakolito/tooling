@@ -73,5 +73,5 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-## Adakolito Test for jenkins project 9 AKA DAVID
+## Adakolito Test
 
