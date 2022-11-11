@@ -75,6 +75,8 @@ Default web root:
 
 Checking Jenkins build kole
 Added post build artifacts
+NFS permission on Jenkins 
+Solutions: sudo chown -R $USER:$USER /mnt/apps
 
 
 
